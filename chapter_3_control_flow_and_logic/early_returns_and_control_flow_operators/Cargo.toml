@@ -1,0 +1,6 @@
+[package]
+name = "early_returns_and_control_flow_operators"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
